@@ -1,6 +1,5 @@
-# Change these first
-owner: HexaGhost-09 # Your GitHub organization or username, where this repository lives
-repo: Uptime-Status # The name of this repository
+owner: GhostCircuit-X0  # Your GitHub organization or username, where this repository lives
+repo: Uptime-Status     # The name of this repository
 
 sites:
   - name: LinksPlace
@@ -15,18 +14,19 @@ sites:
     url: https://status-watch-lol.vercel.app
   - name: TinyURL Server
     url: https://tinyurl-server.deno.dev
-    
+
 status-website:
-  cname: hexaghost-09.github.io/Uptime-Status
+  # If you don’t have a custom domain, use baseUrl as below
+  baseUrl: /Uptime-Status
+  name: Uptime Status
+
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime-Status
-  introTitle: "**Uptime-Status** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/HexaGhost-09/Uptime-Status). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "**Uptime Status** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a live status page using **real-time** data from our [GitHub repository](https://github.com/GhostCircuit-X0/Uptime-Status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/HexaGhost-09/Uptime-Status
+      href: https://github.com/GhostCircuit-X0/Uptime-Status
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# For more options, see https://upptime.js.org/docs/configuration
