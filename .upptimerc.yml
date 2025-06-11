@@ -14,6 +14,14 @@ sites:
     url: https://status-watch-lol.vercel.app
   - name: TinyURL Server
     url: https://tinyurl-server.deno.dev
+  - name: Minecraft Hub Website
+    url: https://minecraft-hub-website.deno.dev
+  - name: API Minecraft Hub
+    url: https://api-minecraft-hub.deno.dev
+  - name: Stable APK Minecraft Hub
+    url: https://stable-apk-minecraft-hub.deno.dev
+  - name: Beta APK Minecraft Hub
+    url: https://beta-apk-minecraft-hub.deno.dev
 
 status-website:
   # If you don’t have a custom domain, use baseUrl as below
