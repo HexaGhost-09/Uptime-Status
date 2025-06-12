@@ -94,19 +94,19 @@
     "url": "https://tinyurl-server.deno.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tinyurl-server.deno.dev.ico",
     "slug": "tiny-url-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1781,
-    "timeDay": 2212,
-    "timeWeek": 1781,
-    "timeMonth": 1781,
-    "timeYear": 1781,
+    "status": "up",
+    "uptime": "97.72%",
+    "uptimeDay": "92.55%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "97.72%",
+    "time": 1704,
+    "timeDay": 1862,
+    "timeWeek": 1704,
+    "timeMonth": 1704,
+    "timeYear": 1704,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 107
     }
   },
   {
